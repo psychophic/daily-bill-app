@@ -1,0 +1,6 @@
+{
+  "name": "Shop Bill Manager",
+  "description": "An offline-first, modern billing companion for tea stalls, smoking zones, clubs, & small shops. Easily calculate bills, manage custom items, edit prices, toggle dark theme, and export reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
